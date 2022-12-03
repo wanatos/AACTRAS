@@ -7839,6 +7839,11 @@ figcaption {
     max-width: 545px;
 }
 
+.notangrande {
+    width: 80px;
+    height: 80px;
+}
+
 .showcase-link {
     position: relative;
     display: -webkit-box;
